@@ -1,0 +1,43 @@
+{
+  "name": "silicon-elements",
+  "version": "1.0.0",
+  "description": "A set of web-components for compiler, reverse engineering, binary analysis, and other low-level technologies.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "silicon",
+    "binary",
+    "reverse",
+    "reverse engineering",
+    "analysis",
+    "binary analysis",
+    "compiler",
+    "compilers",
+    "assembly",
+    "close to the metal",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SiliconElements/silicon-elements.git"
+  },
+  "dependencies": {
+    "silicon-disassembler": "SiliconElements/silicon-disassembler#^1.0.0",
+    "silicon-hex-table": "SiliconElements/silicon-hex-table#^1.0.0",
+    "silicon-image": "SiliconElements/silicon-image#^1.0.0",
+    "silicon-instructions": "SiliconElements/silicon-instructions#^1.0.0",
+    "silicon-upload": "SiliconElements/silicon-upload#^1.0.0"
+  },
+  "homepage": "https://github.com/SiliconElements/silicon-elements",
+  "authors": [
+    "m4b"
+  ],
+  "license": "LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
