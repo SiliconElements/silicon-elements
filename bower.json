@@ -1,6 +1,6 @@
 {
   "name": "silicon-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of web-components for compiler, reverse engineering, binary analysis, and other low-level technologies.",
   "keywords": [
     "web-components",
