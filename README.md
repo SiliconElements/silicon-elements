@@ -9,6 +9,7 @@ Current elements:
 * `<silicon-image>` - a binary image rasterizer/offset tracker
 * `<silicon-instructions>` - an assembly instruction syntax highlighter and list
 * `<silicon-upload>` - a binary upload drag & drop widget
+* `<silicon-symbols>` - a list of symbols
 
 ## Roadmap
 

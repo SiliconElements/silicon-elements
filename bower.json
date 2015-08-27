@@ -22,12 +22,13 @@
     "url": "git://github.com/SiliconElements/silicon-elements.git"
   },
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.x",
-    "silicon-disassembler": "SiliconElements/silicon-disassembler#^1.1.x",
-    "silicon-hex-table": "SiliconElements/silicon-hex-table#^1.0.x",
-    "silicon-image": "SiliconElements/silicon-image#^1.0.x",
-    "silicon-instructions": "SiliconElements/silicon-instructions#^1.0.x",
-    "silicon-upload": "SiliconElements/silicon-upload#^1.0.x"
+    "polymer": "Polymer/polymer#^1.1.x",
+    "silicon-disassembler": "SiliconElements/silicon-disassembler#latest",
+    "silicon-hex-table": "SiliconElements/silicon-hex-table#latest",
+    "silicon-image": "SiliconElements/silicon-image#latest",
+    "silicon-instructions": "SiliconElements/silicon-instructions#latest",
+    "silicon-upload": "SiliconElements/silicon-upload#latest",
+    "silicon-symbols": "SiliconElements/silicon-symbols#latest"
   },
   "homepage": "https://github.com/SiliconElements/silicon-elements",
   "authors": [
